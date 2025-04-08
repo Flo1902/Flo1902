@@ -15,7 +15,7 @@
   <img alt="cpu" src="https://img.shields.io/badge/CPU-i5 14600K-blue?style=for-the-badge&logo=intel"/>
   <img alt="ram" src="https://img.shields.io/badge/RAM-32GB DDR4-yellow?style=for-the-badge&logo=corsair"/>
   <img alt="gpu" src="https://img.shields.io/badge/GPU-RTX 4060-green?style=for-the-badge&logo=nvidia&logoColor=white"/>
-  <img alt="ssd" src="https://img.shields.io/badge/SSD-990 PRO/s-red?style=for-the-badge&logo=samsung"/>
+  <img alt="ssd" src="https://img.shields.io/badge/SSD-990 PRO-red?style=for-the-badge&logo=samsung"/>
 </p>
 
 ---
