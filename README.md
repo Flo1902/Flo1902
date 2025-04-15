@@ -22,8 +22,8 @@
 
 ## 📊 Statistics
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Biscuitdette&theme=onedark)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Flo1902&theme=onedark)
 
-![Biscuitdette's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Biscuitdette&show_icons=true&theme=onedark)
+![Biscuitdette's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Flo1902&show_icons=true&theme=onedark)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Biscuitdette&theme=onedark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Flo1902&theme=onedark)](https://git.io/streak-stats)
