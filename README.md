@@ -14,7 +14,7 @@
   <img alt="os" src="https://img.shields.io/badge/OS-Windows 11 Pro-blue?style=for-the-badge&logo=windows"/>
   <img alt="cpu" src="https://img.shields.io/badge/CPU-i5 14600K-blue?style=for-the-badge&logo=intel"/>
   <img alt="ram" src="https://img.shields.io/badge/RAM-32GB DDR4-yellow?style=for-the-badge&logo=corsair"/>
-  <img alt="gpu" src="https://img.shields.io/badge/GPU-RTX 4060-green?style=for-the-badge&logo=nvidia&logoColor=white"/>
+  <img alt="gpu" src="https://img.shields.io/badge/GPU-RTX 5060 Ti 16GB-green?style=for-the-badge&logo=nvidia&logoColor=white"/>
   <img alt="ssd" src="https://img.shields.io/badge/SSD-990 PRO-red?style=for-the-badge&logo=samsung"/>
 </p>
 
